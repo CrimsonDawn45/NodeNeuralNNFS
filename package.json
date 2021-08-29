@@ -1,0 +1,20 @@
+{
+  "name": "aithing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gpu-ez": "^0.2.4",
+    "mathjs": "^9.4.4"
+  },
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
